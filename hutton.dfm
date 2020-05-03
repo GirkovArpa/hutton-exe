@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 0
   BorderStyle = bsSingle
   Caption = 'Hutton Cipher'
-  ClientHeight = 340
+  ClientHeight = 339
   ClientWidth = 710
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
